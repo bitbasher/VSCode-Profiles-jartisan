@@ -63,6 +63,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Contact
 
-For any questions or suggestions, please contact ch.hsyahmedgoheer@gmail.com or open an issue in the repository.
+Please proivide input by opening an issue in the relevant repository, or write to
+* OG Author: ch.hsyahmedgoheer@gmail.com
+* bitbasher: vulcan_ at mac dot com 
 
 Happy coding!
