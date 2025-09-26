@@ -1,7 +1,6 @@
 # VS Code Profiles
-
-Welcome to the `vscode-profiles` repository! This repository contains various Visual Studio Code profiles that I have created for different development setups and workflows.
-
+This repository is for profiles in use for different development setups and workflows.
+I (bitbasher) have forked it to be able to build profiles for OpenSCAD script writing, and for working on the C++ code of the OpenSCAD application.
 ## Overview
 
 This repository includes:
@@ -17,13 +16,18 @@ This repository includes:
 - Visual Studio Code installed on your machine.
 
 ### Installation
-
-1. Clone the repository:
+1. Make a new folder to clone a GitHub repository into
+1. Open a terminal window and cd to the new directory
+1. Clone one of these repositories:
+  A. The original by Hasnat Ahmed Goheer
     ```bash
     git clone https://github.com/hasnat-ahmed-goheer/vscode-profiles.git
     ```
-
-2. Navigate into the project directory:
+  B. The OpenSCAD specific report by bitbasher Jeff Hayes
+   ```bash
+    git clone https://github.com/bitbasher/vscode-profiles.git
+    ```
+3. Navigate into the project directory:
     ```bash
     cd vscode-profiles
     ```
@@ -31,7 +35,7 @@ This repository includes:
 ### Usage
 
 1. Open VS Code.
-2. Go to the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on macOS).
+2. Go to the Command Palette (`Ctrl+Shift+P` or, on Mac OS X, `Cmd+Shift+P`).
 3. Type and select `Preferences: Open Settings (JSON)` to manually integrate the settings from the profiles provided.
 
 #### Importing Profiles
