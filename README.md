@@ -23,7 +23,7 @@ This repository includes:
     ```bash
     git clone https://github.com/hasnat-ahmed-goheer/vscode-profiles.git
     ```
-   2. The OpenSCAD specific report by bitbasher Jeff Hayes
+   2. The OpenSCAD specific repo by bitbasher (Jeff Hayes)
    ```bash
     git clone https://github.com/bitbasher/vscode-profiles.git
     ```
