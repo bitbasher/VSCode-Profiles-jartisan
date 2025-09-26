@@ -19,11 +19,11 @@ This repository includes:
 1. Make a new folder to clone a GitHub repository into
 1. Open a terminal window and cd to the new directory
 1. Clone one of these repositories:
-  A. The original by Hasnat Ahmed Goheer
+   1. The original by Hasnat Ahmed Goheer
     ```bash
     git clone https://github.com/hasnat-ahmed-goheer/vscode-profiles.git
     ```
-  B. The OpenSCAD specific report by bitbasher Jeff Hayes
+   2. The OpenSCAD specific report by bitbasher Jeff Hayes
    ```bash
     git clone https://github.com/bitbasher/vscode-profiles.git
     ```
